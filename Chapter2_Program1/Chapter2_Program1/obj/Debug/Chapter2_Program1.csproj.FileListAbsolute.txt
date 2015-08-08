@@ -1,0 +1,9 @@
+S:\Dev\Chapter2_Program1\Chapter2_Program1\bin\Debug\Chapter2_Program1.exe.config
+S:\Dev\Chapter2_Program1\Chapter2_Program1\bin\Debug\Chapter2_Program1.exe
+S:\Dev\Chapter2_Program1\Chapter2_Program1\bin\Debug\Chapter2_Program1.pdb
+S:\Dev\Chapter2_Program1\Chapter2_Program1\obj\Debug\Chapter2_Program1.Form1.resources
+S:\Dev\Chapter2_Program1\Chapter2_Program1\obj\Debug\Chapter2_Program1.Properties.Resources.resources
+S:\Dev\Chapter2_Program1\Chapter2_Program1\obj\Debug\Chapter2_Program1.csproj.GenerateResource.Cache
+S:\Dev\Chapter2_Program1\Chapter2_Program1\obj\Debug\Chapter2_Program1.exe
+S:\Dev\Chapter2_Program1\Chapter2_Program1\obj\Debug\Chapter2_Program1.pdb
+S:\Dev\Chapter2_Program1\Chapter2_Program1\obj\Debug\Chapter2_Program1.csprojResolveAssemblyReference.cache
