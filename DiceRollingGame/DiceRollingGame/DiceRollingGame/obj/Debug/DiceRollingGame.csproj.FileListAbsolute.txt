@@ -1,0 +1,1 @@
+C:\Dev\Applications.git\trunk\DiceRollingGame\DiceRollingGame\DiceRollingGame\bin\Debug\DiceRollingGame.exe.config
