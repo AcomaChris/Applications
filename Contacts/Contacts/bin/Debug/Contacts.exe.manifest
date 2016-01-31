@@ -47,14 +47,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Contacts.exe" size="106496">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Contacts.exe" size="105920">
       <assemblyIdentity name="Contacts" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>MjJlBqifIEPDRdm9i91B8j+AFIksXZfz50uPA2+lqEM=</dsig:DigestValue>
+        <dsig:DigestValue>JN2gW82QloMocI7I2IMJT0Is0ETsgVEefDQ23Cyt1Ek=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
