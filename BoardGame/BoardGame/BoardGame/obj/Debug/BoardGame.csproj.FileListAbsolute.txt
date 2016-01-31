@@ -1,0 +1,1 @@
+C:\Dev\Applications.git\trunk\BoardGame\BoardGame\BoardGame\bin\Debug\BoardGame.exe.config
