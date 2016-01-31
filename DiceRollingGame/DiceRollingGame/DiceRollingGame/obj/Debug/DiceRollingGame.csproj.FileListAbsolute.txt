@@ -1,1 +1,7 @@
 C:\Dev\Applications.git\trunk\DiceRollingGame\DiceRollingGame\DiceRollingGame\bin\Debug\DiceRollingGame.exe.config
+S:\Dev\Applications\trunk\DiceRollingGame\DiceRollingGame\DiceRollingGame\bin\Debug\DiceRollingGame.exe.config
+S:\Dev\Applications\trunk\DiceRollingGame\DiceRollingGame\DiceRollingGame\bin\Debug\DiceRollingGame.exe
+S:\Dev\Applications\trunk\DiceRollingGame\DiceRollingGame\DiceRollingGame\bin\Debug\DiceRollingGame.pdb
+S:\Dev\Applications\trunk\DiceRollingGame\DiceRollingGame\DiceRollingGame\obj\Debug\DiceRollingGame.csprojResolveAssemblyReference.cache
+S:\Dev\Applications\trunk\DiceRollingGame\DiceRollingGame\DiceRollingGame\obj\Debug\DiceRollingGame.exe
+S:\Dev\Applications\trunk\DiceRollingGame\DiceRollingGame\DiceRollingGame\obj\Debug\DiceRollingGame.pdb
